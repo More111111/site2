@@ -1,0 +1,74 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(219, 229, 255);
+}
+
+.qqq{
+    text-decoration:none;
+    border-radius:20px ;
+    border:5px solid rgb(117, 108, 241);
+    background-color: rgb(117, 108, 241);
+    color:lavenderblush;
+    padding: 2px;
+    margin: 20px;
+    font-family:Courier ;
+
+}
+
+header{
+    margin: 20px;
+    background-color:#F0D999;
+    margin: 15px;
+    padding: 10px;
+}
+nav{
+    background-color: #F0D999;
+    margin: 15px;
+    padding: 0px;
+}
+
+b{
+    font-size: 20px;
+}
+h1{
+    color:rgb(70, 38, 214);
+    text-align: center;
+}
+footer p{
+    background-color: white;
+    border: 3px solid rgb(101, 91, 255);
+    border-radius: 5px;
+    text-align: center;
+}
+.eee{
+    font-size:16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.nnn{
+  border:4px solid rgb(111, 71, 255);
+  background-color: rgb(255, 255, 255);
+  border-radius: 20px;
+  padding: 20px;
+}
+h2{
+    color:rgb(103, 6, 194);
+    text-align: center;
+    font-size: 30px;
+    font-family: Gill Sans;
+}
+.bbb{
+    text-decoration: none;
+    border-radius:20px ;
+    border:2px solid rgb(117, 108, 241);
+    background-color: rgb(255, 255, 255);
+    color:lavenderblush;
+    padding: 6px;
+    margin: 10px;
+    color:rgb(152, 106, 236);
+    font-family:Comic Sans MS ;
+    font-size:17px ;
+
+}
+   .sss{
+       font-family: cursive;
+   }
